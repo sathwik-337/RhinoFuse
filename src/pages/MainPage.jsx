@@ -756,7 +756,7 @@ const MainPage = () => {
             <div className="absolute inset-x-0 bottom-0 flex justify-center">
               <div className="w-48 h-32 bg-gradient-to-r from-gray-800 to-gray-900 rounded-xl border border-gray-700 shadow-lg flex items-center justify-center">
                 <div className="w-16 h-16 bg-yellow-500 rounded-full flex items-center justify-center">
-                  <span className="text-black font-bold text-xl">RihnoFuse</span>
+                  <span className="text-black font-bold text-xl">RF</span>
                 </div>
               </div>
             </div>
@@ -805,7 +805,7 @@ const MainPage = () => {
             <div className="w-12 h-12 bg-yellow-500 rounded-lg flex items-center justify-center mr-4">
               <Shield className="w-6 h-6 text-black" />
             </div>
-            <h3 className="text-2xl font-bold">RideSense Diagnostic Chip</h3>
+            <h3 className="text-2xl font-bold">RhinoFuse Diagnostic Chip</h3>
           </div>
           
           <p className="text-gray-300 mb-6 leading-relaxed">
