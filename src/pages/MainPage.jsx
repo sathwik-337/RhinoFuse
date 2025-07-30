@@ -756,7 +756,7 @@ const MainPage = () => {
             <div className="absolute inset-x-0 bottom-0 flex justify-center">
               <div className="w-48 h-32 bg-gradient-to-r from-gray-800 to-gray-900 rounded-xl border border-gray-700 shadow-lg flex items-center justify-center">
                 <div className="w-16 h-16 bg-yellow-500 rounded-full flex items-center justify-center">
-                  <span className="text-black font-bold text-xl">RF</span>
+                  <span className="text-black font-bold text-xl">RihnoFuse</span>
                 </div>
               </div>
             </div>
